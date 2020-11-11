@@ -1,0 +1,13 @@
+h1 {
+    color :brown;
+    font-style: italic;
+    font-size: 35px;
+}
+.header {
+   background-color: aqua; 
+   padding: 10;
+}
+.BodyPage {
+    border:  solid;
+    background-color: rgb(195, 160, 104);
+}
